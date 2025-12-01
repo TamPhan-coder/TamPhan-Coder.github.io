@@ -1,4 +1,4 @@
 # TamPhan-Coder.github.io
-theme: Cat themed
+theme: jekyll-theme-minimal
 title: TamPhan-coder's homepage
 description: Bookmark this to keep tabs on my foavorite labs.
